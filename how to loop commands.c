@@ -7,9 +7,10 @@ int main(void) {
       It will choose true or false by the conditions.
       3.Third one is 'after command' which is executed
 	  after the below command had been done. (ex.i++)
-                                                   2022/10/29*/
+                                                   2022/10/29
+						                    by.codeyoon1324*/
   {
-    printf("ccube\n");
+    printf("comands that has been done!\n");
   }
   return 0;
 }

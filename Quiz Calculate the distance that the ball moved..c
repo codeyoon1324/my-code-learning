@@ -15,3 +15,4 @@ int main(void) {
   printf("\ntotal distance that the ball moved : %.4fm", total/100);
   return 0;
 }
+                                                        //by.codeyoon1324
